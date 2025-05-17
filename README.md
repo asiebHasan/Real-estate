@@ -213,6 +213,7 @@ List Bookings with Filters
 ```http
 GET /api/bookings?status=confirmed&start_date=2025-06-01
 Authorization: Bearer <token>
+```
 Success Response (200 OK):
 
 ```json
