@@ -305,12 +305,7 @@ Success Response (200 OK):
 📝 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Made with ❤️ by Asieb Hasan
-
-```vbnet
-Copy
-Edit
-```
+#Made with ❤️ by Asieb Hasan
 
 
 
